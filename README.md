@@ -1,5 +1,5 @@
 # Resume
-Nataha Newbold
+Nataha Newbold...
 
 ### Contact Details:
 EMAIL: NATASHANEWBOLDLONDON@GMAIL.COM
