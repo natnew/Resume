@@ -1,13 +1,13 @@
 # Resume
-Nataha Newbold...
+Nataha Newbold
 
-### Contact Details:
+### Contact Details: ☎️
 EMAIL: NATASHANEWBOLDLONDON@GMAIL.COM
 MOBILE: 07904272819/07956819661
 LINKEDIN: NATASHA NEWBOLD
 LOCATION: NORTH EAST LONDON
 
-### Objective:
+### Objective: 👍
 Natasha is a professional architectural designer with 7 years of
 architecture, engineering and construction experience on small
 to large-scale local and overseas projects. She has also been
@@ -28,7 +28,7 @@ twin platform Autodesk Tandem.
 
 ### Experience:
 
-#### AEC BIM TECHNICAL SPECIALIST - FUTURE GROUP OY - OCT 2020
+#### AEC BIM TECHNICAL SPECIALIST - FUTURE GROUP OY - OCT 2020 🏢
 ● Train architectural, engineering and construction
 professionals on Autodesk Software and workflows
 ● Provide expert BIM advice to AEC professionals
@@ -48,7 +48,7 @@ restraints within a business.
 ● Share best practices, innovation and thought
 leadership with local and global organisations.
 
-#### BIM COORDINATOR - BDP PATTERN DESIGN - MAR 2020 - August 2020
+#### BIM COORDINATOR - BDP PATTERN DESIGN - MAR 2020 - August 2020 🏢
 ● Attend BIM meetings and training sessions
 ● Produce CAD drawings for a major Architectural project
 ● Liaise with internal and external contractors
@@ -74,7 +74,7 @@ backgrounds in order to understand and solve
 problems
 
 
-#### BIM COORDINATOR - BLEND TECHNOLOGY CONSULTANTS - JAN 2019 - Sept 2019
+#### BIM COORDINATOR - BLEND TECHNOLOGY CONSULTANTS - JAN 2019 - Sept 2019 🏢
 ● Manage and conduct advanced modelling in Revit for
 small to large scale BIM projects in London and
 Internationally - RIBA Stages 0 - 7
@@ -95,7 +95,18 @@ standards
 ● Use Navisworks and Solibri to conduct clash detection
 and share models
 
-### Skills:
+### Qualifications: 📑
+* MSC BUILDING INFORMATION
+MODELING AND PROJECT
+COLLABORATION 2023
+
+* BSC ARCHITECTURE 2014
+AT COVENTRY UNIVERSITY AND
+EUROPEAN UNIVERSITY OF
+MADRID
+
+
+### Skills: 🎯
 Machine learning with R and Python,
 Data science with Python, Spark,
 SQL, Azure, Docker, Javascript, ML
@@ -120,3 +131,5 @@ HTML/CSS/JAVA/PYTHON
 programming,
 Second Languages:
 Spanish, German, French
+
+### Please contact me for my full CV. 🙂
