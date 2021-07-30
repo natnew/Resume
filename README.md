@@ -73,7 +73,6 @@ project management frameworks
 backgrounds in order to understand and solve
 problems
 
-
 #### BIM COORDINATOR - BLEND TECHNOLOGY CONSULTANTS - JAN 2019 - Sept 2019
 ● Manage and conduct advanced modelling in Revit for
 small to large scale BIM projects in London and
@@ -94,6 +93,27 @@ standards
 ● Give live project support and consulting
 ● Use Navisworks and Solibri to conduct clash detection
 and share models
+
+### Qualifications:
+* MSC BUILDING INFORMATION
+MODELING AND PROJECT
+COLLABORATION 2023
+
+* URBAN MAPPING IN GIS 2020 UCL
+* POWER BI - 2020 MICROSOFT
+* REVIT FOR VR & AR 2018
+* AUTODESK ADVANCED REVIT MODELLING
+2018 AUTODESK
+* HISTORIC BUILDING RECREATION
+2018 AUTODESK
+* ARCHITECTURAL CAD
+TECHNICIAN 2018 AUTODESK
+
+* BSC ARCHITECTURE 2014
+AT COVENTRY UNIVERSITY AND
+EUROPEAN UNIVERSITY OF
+MADRID
+
 
 ### Skills:
 Machine learning with R and Python,
